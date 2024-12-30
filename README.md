@@ -4,7 +4,7 @@ This is a fun and festive webpage to celebrate Diwali with animated fireworks an
 
 ## Demo Link
 
-You can preview the project through the following link:.
+You can preview the project through the following link:https://diwali-mu.vercel.app/
 
 ## Features
 
